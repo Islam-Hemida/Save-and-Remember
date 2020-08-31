@@ -1,0 +1,6 @@
+framework module Pods_Save_and_Remember {
+  umbrella header "Pods-Save and Remember-umbrella.h"
+
+  export *
+  module * { export * }
+}

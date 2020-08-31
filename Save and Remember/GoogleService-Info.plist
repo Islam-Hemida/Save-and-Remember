@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>690301773736-k5f5r9hnfsags71mpqhnqrlsb6jks1k9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.690301773736-k5f5r9hnfsags71mpqhnqrlsb6jks1k9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcLDixFmhzh3h5KZ6G7lOeH7tU0nlu_G0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>690301773736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.codewithisi.Save-and-Remember</string>
+	<key>PROJECT_ID</key>
+	<string>save-and-remember</string>
+	<key>STORAGE_BUCKET</key>
+	<string>save-and-remember.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:690301773736:ios:4b7cacb4c852aaaa111f9d</string>
+	<key>DATABASE_URL</key>
+	<string>https://save-and-remember.firebaseio.com</string>
+</dict>
+</plist>
